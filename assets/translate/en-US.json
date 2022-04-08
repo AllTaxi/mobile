@@ -1,0 +1,17 @@
+{
+    "where_to":"Where to ?",
+    "history" : "Order history",
+    "result":"Result",
+    "where_from": "Where from ?",
+    "choose_location": "Select destination on the map",
+    "map": "Map",
+    "request_failed" : "Request failed",
+    "unfortunately": "Unfortunately, this feature is not supported yet.",
+    "order": "Order",
+    "settings": "Settings",
+    "support": "Support",
+    "info": "Info",
+    "my_order": "My orders",
+    "total": "Total Savings: ",
+    "search_your_interests": "Search your interests"
+}

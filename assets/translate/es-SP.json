@@ -1,0 +1,16 @@
+{
+    "where_to":"Qayerga ?",
+    "result":"Natija",
+    "where_from": "Qayerdan ?",
+    "choose_location": "Manzilni belgilang",
+    "map": "Map",
+    "request_failed" : "So‘rov bajarilmadi !",
+    "unfortunately": "Afsuski, bu xususiyat hali qo‘llab-quvvatlanmaydi.",
+    "order": "Buyurtma berish",
+    "settings": "Sozlamalar",
+    "support": "Yordam xizmati",
+    "info": "Axborot",
+    "total": "Umumiy tejaldi:",
+    "my_order": "Mening buyurtmalarim",
+    "history" : "Buyurtmalar tarixi"
+}
